@@ -28,7 +28,7 @@ const Navbar = () => {
         {/* Right Side */}
         <div className="flex items-center gap-3">
             <a
-                href="https://wa.me/918111028810?text=%F0%9F%8D%97%20Hi%20Priya%20Chicken%20Centre,%20I%20would%20like%20to%20know%20today%27s%20chicken%20rates%20and%20place%20an%20order."
+                href="https://wa.me/917868863068?text=%F0%9F%8D%97%20Hi%20Priya%20Chicken%20Centre,%20I%20would%20like%20to%20know%20today%27s%20chicken%20rates%20and%20place%20an%20order."
                 target="_blank"
                 rel="noopener noreferrer"
                 className="hidden md:block bg-white text-blue-600 px-4 py-2 rounded-lg font-semibold hover:scale-105 hover:duration-700 hover:bg-yellow-400 hover:text-black transition"
@@ -60,7 +60,7 @@ const Navbar = () => {
             <p className="hover:text-yellow-300 cursor-pointer">Contact</p>
             <p className="hover:text-yellow-300 cursor-pointer">Products</p>
            <a
-              href="https://wa.me/918111028810?text=%F0%9F%8D%97%20Hi%20Priya%20Chicken%20Centre,%20I%20would%20like%20to%20know%20today%27s%20chicken%20rates%20and%20place%20an%20order."
+              href="https://wa.me/917868863068?text=%F0%9F%8D%97%20Hi%20Priya%20Chicken%20Centre,%20I%20would%20like%20to%20know%20today%27s%20chicken%20rates%20and%20place%20an%20order."
               target="_blank"
               rel="noopener noreferrer"
               className="w-full mt-3 bg-white text-blue-600 px-4 py-2 rounded-lg font-semibold inline-block text-center hover:bg-green-500 hover:text-white hover:scale-105 duration-500"
