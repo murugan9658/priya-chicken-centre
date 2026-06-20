@@ -58,7 +58,9 @@ const Navbar = () => {
             <p className="hover:text-yellow-300 cursor-pointer">Home</p>
             <p className="hover:text-yellow-300 cursor-pointer">About</p>
             <p className="hover:text-yellow-300 cursor-pointer">Contact</p>
-            <p className="hover:text-yellow-300 cursor-pointer">Products</p>
+             <li className="hover:text-yellow-300 cursor-pointer hover:scale-105 hover:duration-700">
+            <Link to="/products">Products</Link>
+          </li>
            <a
               href="https://wa.me/917868863068?text=%F0%9F%8D%97%20Hi%20Priya%20Chicken%20Centre,%20I%20would%20like%20to%20know%20today%27s%20chicken%20rates%20and%20place%20an%20order."
               target="_blank"
